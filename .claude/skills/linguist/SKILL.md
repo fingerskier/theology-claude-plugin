@@ -26,6 +26,7 @@ Language classification, period, distinctive features of this text's language.
 ### 2. Lexical Semantics
 Key terms with Strong's numbers, roots, semantic ranges, and intertextual connections. Use vocabulary tables:
 | Term | Root | Meaning | Occurrences | Key Usage |
+| --- | --- | --- | --- | --- |
 
 ### 3. Morphological and Grammatical Features
 Verb forms, construct chains, notable syntax, parsing of significant words.
@@ -39,6 +40,7 @@ Word origins, development across biblical usage, cognates.
 ### 6. Translation Decisions
 Compare major versions. Use a translation comparison table:
 | Version | Rendering | Notes |
+| --- | --- | --- |
 
 ### 7. Textual Variants
 Manuscript evidence, critical apparatus notes, impact on interpretation.

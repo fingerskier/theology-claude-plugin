@@ -35,6 +35,7 @@ Identity, situation, needs, social composition.
 ### 3. Date of Composition and Events
 When composed, when events occurred. Use a timeline table:
 | Event | Date | Significance |
+| --- | --- | --- |
 
 ### 4. Notable Practices of the Day
 Religious, cultural, and economic practices relevant to the passage.
@@ -53,7 +54,7 @@ Physical setting, significance of locations, expanding/contracting scope where a
 
 ### Formatting
 - Hebrew/Greek terms: **term** (Hebrew: script, *transliteration*)
-- Timeline tables: `| Date | Event | Reference |`
+- Timeline tables: `| Event | Date | Significance |`
 - Comparison tables for cultural parallels
 - Verse references: (v.1), (vv.1-5)
 - Biblical citations: Book Chapter:Verses

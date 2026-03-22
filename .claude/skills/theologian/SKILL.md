@@ -30,6 +30,6 @@ Expanded sub-themes with cross-references where the passage connects to broader 
 
 ### Formatting
 - Hebrew/Greek terms: **term** (Hebrew: script, *transliteration*)
-- Cross-reference tables: `| Theme | OT Foundation | NT Development |`
+- Cross-reference tables: `| Theme | OT Foundation | NT Development |` (with `| --- | --- | --- |` separator)
 - Biblical citations throughout
 - Connect to systematic theology categories where natural

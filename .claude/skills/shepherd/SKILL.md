@@ -20,6 +20,7 @@ Organize answers as `### ` subsections:
 ### 1. Clarifying the Original Meaning for a Modern Audience
 Bridge the ancient context to contemporary life. Use comparison tables:
 | Ancient Reality | Modern Equivalent |
+| --- | --- |
 
 ### 2. What Must Change
 Attributes, attitudes, and actions the passage calls the modern audience to alter. Include diagnostic questions for self-examination.
@@ -27,6 +28,7 @@ Attributes, attitudes, and actions the passage calls the modern audience to alte
 ### 3. When, Where, and How to Implement
 Context-specific guidance. Use implementation tables:
 | Context | When | Where | How |
+| --- | --- | --- | --- |
 
 ### 4. Meaning Versus Method
 The fixed theological principle versus flexible application methods. Distinguish what is timeless from what is culturally situated.
