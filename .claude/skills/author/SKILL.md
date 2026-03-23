@@ -57,6 +57,7 @@ Number significance, word counts, repeated patterns, numerical word values, macr
 ### 8. Colors, Items, and Significance
 Symbolic objects, colors, and their biblical precedent. Use catalog tables:
 | Symbol | Meaning | Biblical Precedent |
+| --- | --- | --- |
 
 ### Formatting
 - ASCII structural diagrams with indentation
