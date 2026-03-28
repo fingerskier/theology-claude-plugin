@@ -1,6 +1,6 @@
 # Theology Claude Plugin
 
-Version: 2026.3.28
+Version: 2026.3.28.1
 
 A standalone Claude plugin for exegetical theology research. AI serves as a research assistant — treat output like a calculator: always verify claims, cross-reference sources, and probe answers critically.
 
