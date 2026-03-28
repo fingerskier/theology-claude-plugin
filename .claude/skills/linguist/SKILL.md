@@ -48,6 +48,8 @@ Manuscript evidence, critical apparatus notes, impact on interpretation.
 ### Formatting
 - Hebrew/Greek: **term** (Hebrew: script, *transliteration*)
 - Strong's numbers: H1234 / G5678
+- Biblical citations: Book Chapter:Verses
+- Verse references: (v.1), (vv.1-5)
 - Vocabulary tables for key terms with semantic ranges
 - Morphological notation where relevant
 - Translation comparison tables across ESV, NASB, NIV, KJV

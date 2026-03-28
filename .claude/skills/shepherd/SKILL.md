@@ -34,8 +34,11 @@ Context-specific guidance. Use implementation tables:
 The fixed theological principle versus flexible application methods. Distinguish what is timeless from what is culturally situated.
 
 ### Formatting
+- Hebrew/Greek terms: **term** (Hebrew: script, *transliteration*)
 - Comparison tables: `| Ancient Reality | Modern Equivalent |`
 - Implementation tables: `| Context | When | Where | How |`
+- Biblical citations: Book Chapter:Verses
+- Verse references: (v.1), (vv.1-5)
 - Self-examination questions
 - Practical, specific, actionable content
 - Bridge ancient meaning to contemporary life
