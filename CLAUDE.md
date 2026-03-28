@@ -13,7 +13,7 @@ This plugin provides seven slash-command skills for Biblical exegesis:
 | Historian | `/historian` | Historical and cultural background |
 | Linguist | `/linguist` | Hebrew, Greek, and Aramaic linguistic analysis |
 | Author | `/author` | Literary features and structure |
-| Theologian | `/theologian` | Theological themes and doctrines |
+| Theologian | `/theologian` | Theological themes, doctrines, and covenantal-canonical analysis |
 | Disciple | `/disciple` | Hermeneutical methods and canonical themes |
 | Shepherd | `/shepherd` | Practical modern application |
 | Research | `/research` | Full exegetical analysis (orchestrates all six above) |
