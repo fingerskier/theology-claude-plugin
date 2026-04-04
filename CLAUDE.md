@@ -1,6 +1,6 @@
 # Theology Claude Plugin
 
-Version: 2026.3.28.1
+Version: 2026.4.3
 
 A standalone Claude plugin for exegetical theology research. AI serves as a research assistant — treat output like a calculator: always verify claims, cross-reference sources, and probe answers critically.
 
@@ -16,6 +16,7 @@ This plugin provides seven slash-command skills for Biblical exegesis:
 | Theologian | `/theologian` | Theological themes, doctrines, and covenantal-canonical analysis |
 | Disciple | `/disciple` | Hermeneutical methods and canonical themes |
 | Shepherd | `/shepherd` | Practical modern application |
+| Numerology | `/numerology` | Biblical significance of a number |
 | Research | `/research` | Full exegetical analysis (orchestrates all six above) |
 
 ## Usage
@@ -28,6 +29,13 @@ Invoke any skill with a Bible passage reference:
 /historian Genesis 1:1-25
 /linguist Ephesians 2:8-10
 /author Psalm 23
+```
+
+The numerology skill takes a number instead of a passage:
+
+```
+/numerology 7
+/numerology 40
 ```
 
 ### Complete Analysis
