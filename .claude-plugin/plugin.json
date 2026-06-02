@@ -1,0 +1,11 @@
+{
+  "name": "theology",
+  "version": "2026.6.2",
+  "description": "Exegetical theology research — rigorous, multi-perspective Biblical exegesis with historian, linguist, author, theologian, disciple, shepherd, numerology, and full research skills.",
+  "author": {
+    "name": "Fingerskier"
+  },
+  "repository": "https://github.com/fingerskier/theology-claude-plugin",
+  "license": "MIT",
+  "keywords": ["theology", "bible", "exegesis", "hermeneutics", "research", "biblical-studies"]
+}
